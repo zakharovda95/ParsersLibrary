@@ -39,4 +39,4 @@ bower_components/
 .vscode/
 .idea/
 
-appsettings.json
+appsettings.*.json
