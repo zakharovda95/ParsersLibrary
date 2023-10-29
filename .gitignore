@@ -1,0 +1,42 @@
+bin/
+obj/
+riderModule.iml
+/_ReSharper.Caches/
+.idea
+# Игнорировать временные файлы и директории
+[Tt]humbs.db
+*.DS_Store
+*.swp
+[Tt]emp/
+[Oo]bj/
+[Bb]in/
+[Pp]ublish/
+[Rr]elease/
+node_modules/
+bower_components/
+
+# Игнорировать файлы настроек
+*.suo
+*.user
+*.sln.DotSettings.user
+*.sln.DotSettings
+
+# Игнорировать файлы сборки
+*.dll
+*.exe
+
+# Игнорировать папки сборки
+/[Bb]in/
+/[Oo]bj/
+
+# Игнорировать папку "packages" для NuGet
+/packages/
+
+# Игнорировать файлы логов
+*.log
+
+# Игнорировать файлы конфигурации IDE (примеры для Visual Studio и JetBrains Rider)
+.vscode/
+.idea/
+
+appsettings.json
